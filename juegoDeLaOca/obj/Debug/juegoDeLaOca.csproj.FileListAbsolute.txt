@@ -1,0 +1,6 @@
+c:\users\ulpaso\documents\visual studio 2015\Projects\juegoDeLaOca\juegoDeLaOca\bin\Debug\juegoDeLaOca.exe.config
+c:\users\ulpaso\documents\visual studio 2015\Projects\juegoDeLaOca\juegoDeLaOca\bin\Debug\juegoDeLaOca.exe
+c:\users\ulpaso\documents\visual studio 2015\Projects\juegoDeLaOca\juegoDeLaOca\bin\Debug\juegoDeLaOca.pdb
+c:\users\ulpaso\documents\visual studio 2015\Projects\juegoDeLaOca\juegoDeLaOca\obj\Debug\juegoDeLaOca.csprojResolveAssemblyReference.cache
+c:\users\ulpaso\documents\visual studio 2015\Projects\juegoDeLaOca\juegoDeLaOca\obj\Debug\juegoDeLaOca.exe
+c:\users\ulpaso\documents\visual studio 2015\Projects\juegoDeLaOca\juegoDeLaOca\obj\Debug\juegoDeLaOca.pdb
